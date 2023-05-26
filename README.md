@@ -1,4 +1,5 @@
 # NO ESCAPE - Top Down Shooter Game
+![home_screen](https://github.com/AlbertBS2/Top_Down_Shooter_Game/assets/110198818/30acdd74-faa7-4d84-9044-26b3409afe5c)
 
 ## Table of Contents
 [I. Description](#description)  
