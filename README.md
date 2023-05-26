@@ -9,7 +9,8 @@
 [III. Controls](#controls)    
 [IV. Mechanics](#mechanics)    
 [V. Libraries](#libraries)   
-[VI. Contributing](#contributing)
+[VI. Run the game](#run-the-game)    
+[VII. Contributing](#contributing)
 
 ## Description
 The protagonist has been locked inside a building in an apocalypse. His only goal is to escape from there to find a safer place, but it will not be an easy task. On the way to the exit you will encounter enemies (zombies) with the aim of killing him, and the doors to the exit are blocked. To make his way through these obstacles he will use the weapons and ammunition found on the floor.
@@ -49,6 +50,9 @@ This game uses the following Python libraries:
 - PGU
 - Random
 - Networkx
+
+## Run the Game
+After cloning the repository to your local machine, just launch the *main.py* file and the home screen of the game will appear. Then just click on *Jugar* (*Play*) and a new game will start.
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to enhance this project, feel free to open a pull request.
