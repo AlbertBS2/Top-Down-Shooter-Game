@@ -23,6 +23,8 @@ There are three different ways to accomplish this ultimate goal and manage to es
 
 If you fail to escape from the building, that is, when the character runs out of life, the user loses the game and a final Game Over screen appears.
 
+![game_over](https://github.com/AlbertBS2/Top_Down_Shooter_Game/assets/110198818/ed66633a-ef32-429a-8667-ece19f944ef0)
+
 ## Controls
 For this game we will use the two types of inputs that pygame allows us:
 - *Mouse:* The mouse has the function of aiming, in the game screen the cursor is replaced by a cross that represents the aiming point of a gun. By moving this crosshair across the screen, the protagonist rotates so that he is always looking where he is aiming. The weapon is fired with the left mouse button.
