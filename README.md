@@ -30,6 +30,8 @@ For this game we will use the two types of inputs that pygame allows us:
 - *Mouse:* The mouse has the function of aiming, in the game screen the cursor is replaced by a cross that represents the aiming point of a gun. By moving this crosshair across the screen, the protagonist rotates so that he is always looking where he is aiming. The weapon is fired with the left mouse button.
 - *Keyboard:* Serves to move our protagonist, using the WASD keys as if they were the direction arrows, although if desired the arrows can also be used. For interaction with other elements of the game, such as opening doors or collecting objects, the SPACE key is used. Finally, if you want to stop the game, you can access the pause menu through "P" or the "ESC" key.
 
+![controls](https://github.com/AlbertBS2/Top_Down_Shooter_Game/assets/110198818/576fce7e-c014-4d99-aedf-abb86cb07cfb)
+
 ## Mechanics
 - *Coins:* Coins are the resources used when opening doors. They are obtained by eliminating enemies. Depending on the type of enemy, you get more or less coins for killing him. At all times the player has full control of the number of coins available through an indicator located in the upper left corner.
 - *Ammunition:* Ammunition is necessary to be able to fire the weapon carried by the character controlled by the player. If he runs out, he has to search around the building until he finds some, or he can't kill the enemies. During the course of the game, you can collect ammunition found in various places in the building.
