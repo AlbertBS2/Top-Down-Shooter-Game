@@ -1,7 +1,7 @@
 # NO ESCAPE - Top Down Shooter Game
 ![logo](https://github.com/AlbertBS2/Top_Down_Shooter_Game/assets/110198818/ddf4ec2e-f4ec-4d28-9468-617b85785a90)
 
-#### *Disclamer: The language used throughout the game is Catalan because this game was created for a project at the UPC - Universitat Politècnica de Catalunya.*
+#### *Note: The language used throughout the game is Catalan.*
 
 ## Table of Contents
 [I. Description](#description)  
